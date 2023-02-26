@@ -1,4 +1,4 @@
-pyTelegramBotAPI
-RPi.GPIO
-picamera
-Adafruit_DHT
+pyTelegramBotAPI 4.10.0
+RPi.GPIO 0.7.1
+picamera 1.13
+Adafruit_DHT 1.4.0
